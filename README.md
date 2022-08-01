@@ -1,2 +1,2 @@
 # learning-python
-the basics of python 
+learning the basics of python from W3Schools.
